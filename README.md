@@ -1,5 +1,6 @@
-- 👋  Olá, eu sou a Beatriz Lopes!  
+## Olá, eu sou a Beatriz Lopes!  
 - 🌱 Atualmente estou aprendendo, HTML, CSS e JAVASCRIPT.
+- 🙂 Pronouns: ela/dela
 
 <!---
 bealopesof/bealopesof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
